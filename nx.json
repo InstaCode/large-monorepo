@@ -1,6 +1,5 @@
 {
-  "npmScope": "",
-  "extends": "nx/presets/npm.json",
+  "npmScope": "monorepo",
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx/tasks-runners/default",
